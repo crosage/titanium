@@ -1,16 +1,14 @@
-# photo_windows
+## 一个简单的查看自己在哪拍过照片的程序
 
-A new Flutter project.
+![a923e7345ea0d98551223e8fd385d06d.png](assets/a923e7345ea0d98551223e8fd385d06d.png)
 
-## Getting Started
+## 配置过程
 
-This project is a starting point for a Flutter application.
+在一个文件夹中放置拍的照片（确保拥有exif坐标）
+在文件夹路径里添加自己的文件及路径
 
-A few resources to get you started if this is your first Flutter project:
+* 因为使用的开源OSM地图，需要使用代理才能访问，请自行配置代理
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
