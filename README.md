@@ -6,6 +6,10 @@
 
 ![387beb9163fcde39b13355f17f3cadb2.png](assets/387beb9163fcde39b13355f17f3cadb2.png)
 
+![image.png](assets/image.png)
+
+
+
 ## 配置过程
 
 在一个文件夹中放置拍的照片（确保拥有exif坐标）
